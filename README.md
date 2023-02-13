@@ -10,11 +10,14 @@
    </a>
 </div>
 
-___
 <div id="badges" align="center" >
  <img src="https://komarev.com/ghpvc/?username=Yaroslav19961&style=plastic&color=blueviolet"alt="Yaroslav19961" />
 </div>
 
+___
 
+<div align="center">
+ <img src="https://img.freepik.com/premium-vector/remote-workplace-man-working-at-computer-freelancer-character_81894-7594.jpg" width="550" height="400"/>
+</div>
 
 
