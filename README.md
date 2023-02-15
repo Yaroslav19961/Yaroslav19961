@@ -25,7 +25,7 @@ ___
  
 :man_student: I am currently studying  of Vadim Ksendzov's QA-courses.
  
-:earth_asia: My location Moscow.
+:earth_asia: My location is Moscow.
 
 ---
 
