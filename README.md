@@ -22,7 +22,9 @@ ___
 
 ### :man: About Me :
 :computer:I have experience in testing Web-applications and mobile applications in websites.
+ 
 :man_student: I am currently studying  of Vadim Ksendzov's QA-courses.
+ 
 :earth_asia: My location Moscow.
 
 ---
