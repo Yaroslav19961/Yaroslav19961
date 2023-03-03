@@ -3,6 +3,8 @@
 </div>
 
 <div id="badges" align="center" >
+<a href="https://www.linkedin.com/in/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2-%D0%BA%D0%BE%D0%B2%D0%B0%D0%BB%D0%B5%D0%B2-89a456267/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  <a href="https://t.me/yKovalevy">
  <img src="https://img.shields.io/badge/-Telegram-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
 <a href="https://instagram.com/yaroslav_kovalev?igshid=ZDdkNTZiNTM=">
